@@ -2,7 +2,7 @@
 
 | **Name:** | Vigneshwar E| **Reg. No.:** |26014344 |
 |---|---|---|---|
-| **Date:** | 19-11-2026| **Batch / Section:** | |
+| **Date:** | 19-11-2026| **Batch / Section:** | 26ODJ084|
 
 ---
 
