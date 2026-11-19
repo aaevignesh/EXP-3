@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 3 – STAIRCASE WIRING
 
-| **Name:** | | **Reg. No.:** | |
+| **Name:** | Vigneshwar E| **Reg. No.:** |26014344 |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| **Date:** | 19-11-2026| **Batch / Section:** | |
 
 ---
 
@@ -47,7 +47,8 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+<img width="948" height="590" alt="Screenshot 2026-11-19 153321" src="https://github.com/user-attachments/assets/3291d01b-f622-4478-86e9-0f5bf46befc1" />
+
 
 **Figure 1:** Staircase wiring – direct connection
 
@@ -66,7 +67,8 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the cross connection circuit diagram here ]*
+<img width="879" height="668" alt="Screenshot 2026-11-19 153406" src="https://github.com/user-attachments/assets/80176f90-45d1-4f99-a458-0fe1d7b354bc" />
+
 
 **Figure 2:** Staircase wiring – cross connection
 
@@ -87,13 +89,15 @@ Build both the direct and cross connection circuits in Proteus using an AC sourc
 
 ### A. Direct connection – simulation
 
-*[ Paste the Proteus direct connection simulation screenshot here ]*
+<img width="881" height="417" alt="Screenshot 2026-11-19 153805" src="https://github.com/user-attachments/assets/91349808-677a-4c53-9c2b-4b96ce5a25dd" />
+
 
 **Figure 3:** Proteus simulation – direct connection
 
 ### B. Cross connection – simulation
 
-*[ Paste the Proteus cross connection simulation screenshot here ]*
+<img width="903" height="458" alt="Screenshot 2026-11-19 152427" src="https://github.com/user-attachments/assets/30f5c4d5-4bb7-4328-993a-2460eecd4008" />
+
 
 **Figure 4:** Proteus simulation – cross connection
 
